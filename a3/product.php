@@ -30,7 +30,10 @@
                     <label for="prod-price">Product Price:</label>
                     <input type="text" name="prod-price">
                 </div>
-                <input type="submit">
+                <div>
+                    <input type="submit">
+                </div>
+                
             </form>
         </section>
 
